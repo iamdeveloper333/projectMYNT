@@ -6,15 +6,15 @@ class Connect extends Component {
     return (
       <div className="connect py-4">
       	<div className="row p-0 m-0">
-      		<div className="col-lg-4 text-center">
+      		<div className="col-xl-4 col-lg-4 col-md-4 col-sm-12 text-center">
       			<i className="fa fa-weixin" aria-hidden="true"></i>
       			<p className="mb-0 pt-3">24/7 Customer Care</p>
       		</div>
-      		<div className="col-lg-4 text-center">
+      		<div className="col-xl-4 col-lg-4 col-md-4 col-sm-12 text-center">
       			<i className="fa fa-paper-plane" aria-hidden="true"></i>
       			<p className="mb-0 pt-3">Resend Booking Confirmation</p>
       		</div>
-      		<div className="col-lg-4 text-center">
+      		<div className="col-xl-4 col-lg-4 col-md-4 col-sm-12 text-center">
       			<i className="fa fa-envelope" aria-hidden="true"></i>
       			<p className="mb-0 pt-3">Subcribe to our newsletter</p>
       		</div>
