@@ -1,3 +1,4 @@
 Download this project.
-npm install
+  /*After that run this two commands*/
+npm install,
 npm start
