@@ -1,0 +1,251 @@
+.home-page{
+	position: relative;;
+}
+.home-line1{
+	color: #E4E4E4;
+    font-family: "Work Sans";
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 20px;
+    text-align: center;
+    position: absolute;
+    width: 100%;
+    text-transform: uppercase;
+    letter-spacing: 15px;
+    bottom: 0px;
+    padding-bottom: 170px;
+}
+.home-line2{
+	color: #FFFFFF;
+    font-family: "Work Sans";
+    font-size: 35px;
+    font-weight: 200;
+    line-height: 40px;
+    text-align: center;
+    letter-spacing: 3px;
+    position: absolute;
+    width: 100%;
+    bottom: 0px;
+    padding-bottom: 90px;
+}
+.home-line3{
+		color: #FFFFFF;	
+		font-family: "Work Sans";
+		font-size: 18px;	
+		line-height: 19px;
+		text-align: center;
+		padding-bottom: 45px;
+    bottom: 0px;
+    position: absolute;
+    text-align: center;
+    width: 100%;
+    font-weight: 200;
+
+}
+.chat{
+    bottom: -50px;
+    position: absolute;
+    right: 100px;
+}
+.top-nav{
+	position: absolute;
+	width: 100%;
+	padding-top: 20px;
+
+}
+.top-nav nav{
+	    background: transparent !important;
+}
+.top-nav nav img{
+	width: 130px;
+}
+.top-nav nav .navbar-nav li a{
+	    color: #FFFFFF !important;
+    font-family: "Work Sans";
+    font-size: 16px;
+    line-height: 20px;
+    padding: 0px 35px;
+}
+.top-nav nav .navbar-nav span{
+
+}
+/*Featured Workshop*/
+.featured-workshops h3 {
+	color: #353535;
+    font-family: "Work Sans";
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 30px;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+}
+
+.featured-workshops .row{	
+	color: #FFFFFF;	
+	font-family: "Work Sans";
+	font-size: 18px;
+	line-height: 20px;
+	padding:0px 8vw;
+}
+
+.featured-workshops .card{
+	box-shadow: 0 2px 4px 0 rgba(0,0,0,0.1);
+    margin-bottom: 20px;
+    border-radius: 0px;
+}
+
+.featured-workshops .card-img-top{
+	padding: 10px 10px 0px;
+}
+
+.featured-workshops .card-body .card-title{
+	color: #353535;
+    font-family: "Work Sans";
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 27px;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+}
+.featured-workshops .card-body .location,
+.featured-workshops .card-body .date,
+.featured-workshops .card-body .time-remain h5{
+	opacity: 0.82;
+    color: #555555;
+    font-family: "Work Sans";
+    font-size: 13px;
+    line-height: 23px;
+}
+
+.featured-workshops .card-body {
+	padding: 15px 10px 0px;
+}
+.featured-workshops .card-body .time-remain p{
+	color: #555555;
+	font-family: "Work Sans";
+	font-size: 13px;
+	font-weight: 500;	
+	line-height:8px;	
+	text-align: right;	
+}
+
+/*Blogs*/
+.blogs h3 {
+	color: #353535;
+    font-family: "Work Sans";
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 25px;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 8px;
+}
+.blogs .row{
+	padding:0px 9vw;
+}
+
+.blogs .card{
+	border: 0px;
+}
+.blogs .card-body{
+	padding:0px;
+}
+
+.blogs .card .card-title{
+	       color: #555555;
+    font-family: "Work Sans";
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 23px;
+    padding: 5px;
+}
+.blogs .card .blog-content,.blogs .card .blog-footer{
+	       color: #555555;
+    font-family: "Work Sans";
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 20px;
+    padding: 5px;
+     opacity: 0.82;
+}
+.fa-calendar-o{
+	color: #b4afc8 !important;
+}
+
+.connect{
+	background: #403f44;
+}
+.fa-weixin,.fa-paper-plane,.fa-envelope{
+	font-size: 45px;
+    color: #ccc9c9;
+}
+.connect p{
+	    color: #ccc9c9;
+    font-family: "Work Sans";
+    font-size: 13px;
+    font-weight: 300;
+    line-height: 22px;
+    text-align: center;
+    text-transform: uppercase;
+}
+.extralink,.social-link{
+background: #212121;
+}
+
+.extralink h4{
+	    color: #D4AF37;
+    font-family: "Work Sans";
+    font-size: 14px;
+    line-height: 23px;
+    text-transform: uppercase;
+}
+
+.extralink ul a{
+	    color: #8E8E8E !important;
+    font-family: "Work Sans";
+    font-size: 13px;
+    padding: 0px 0px 10px;
+    background: none;
+    border: 0px !important;
+}
+
+.extralink  .row{
+	padding: 0 8vw;
+}
+.social-link .row{
+	width: 30%;
+
+}
+.logo-bottom{
+	background: #212121;
+}
+.logo-bottom .line{
+	    margin-top: 20px;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 1px solid rgb(204, 201, 201);
+}
+.logo-bottom img{
+	width: 105px;
+}
+
+.footer-nav ul li{
+    font-family: "Work Sans";
+    font-size: 14px;
+    line-height: 23px;
+}
+.footer-nav ul li a{
+	    color: #8E8E8E !important;
+	    font-size: 12px;
+	    }
+.footer-nav ul  span{  
+       color: #8E8E8E;
+    padding: 7px 15px;
+    font-weight: 100;
+    font-size: 14px;
+}
+
+.footer-nav .navbar{
+	background: #212121 !important;
+}

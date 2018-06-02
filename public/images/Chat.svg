@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="99px" height="100px" viewBox="0 0 99 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>E09FCF61-FD29-4E9A-BF91-9FFAFC29B8DC</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <filter x="-43.1%" y="-32.2%" width="185.7%" height="181.5%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="6" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="8" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.414685236 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="PAGES2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1-Home-Page" transform="translate(-1268.000000, -768.000000)">
+            <g id="Header" transform="translate(-144.000000, 0.000000)">
+                <g id="Chat" transform="translate(1428.000000, 778.000000)">
+                    <g filter="url(#filter-1)">
+                        <ellipse id="Oval-2" stroke="#D4AF37" stroke-width="1.125" transform="translate(33.649554, 34.151786) rotate(-90.000000) translate(-33.649554, -34.151786) " cx="33.6495536" cy="34.1517857" rx="33.6495536" ry="34.1517857"></ellipse>
+                        <ellipse id="Oval-2-Copy" fill="#D4AF37" transform="translate(33.649554, 34.151786) rotate(-90.000000) translate(-33.649554, -34.151786) " cx="33.6495536" cy="34.1517857" rx="29.6116071" ry="30.0535714"></ellipse>
+                        <path d="M45.7633545,33.4687705 C45.7679864,35.2718014 45.3529233,37.0504465 44.5519725,38.6598338 C42.6150523,42.5931949 38.6551096,45.0786578 34.3225244,45.0803593 C32.5460087,45.0850603 30.7935202,44.6638022 29.2078004,43.850897 L21.5357143,46.4464286 L24.0930763,38.6598338 C23.2921255,37.0504465 22.8770624,35.2718014 22.8816943,33.4687705 C22.8833708,29.0715199 25.3322827,25.0524736 29.2078004,23.0866441 C30.7935202,22.2737388 32.5460087,21.8524808 34.3225244,21.8571818 L34.9955144,21.8571818 C40.8045076,22.1824424 45.4428771,26.8900413 45.7633545,32.7857359 L45.7633545,33.4687705 Z" id="Shape" stroke="#FFFFFF" stroke-width="2.25" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
